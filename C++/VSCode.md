@@ -1,0 +1,6 @@
+
+```json
+"C_Cpp.default.compileCommands": [
+	"/build/compile_commands.json"
+]
+```
